@@ -1,11 +1,9 @@
 import React from 'react';
-import Header from '../components/Header'; // Header and Footer will be handled by Layout in App.tsx
-import Footer from '../components/Footer'; // Header and Footer will be handled by Layout in App.tsx
 import SectionTitle from '../components/SectionTitle';
 import Button from '../components/Button';
 import { 
     FactoryIcon, TrashAltIcon, CityIcon, GraduationCapIcon, HandshakeIcon, 
-    BuildingIcon, SchoolIcon, SeedlingIcon, CheckIcon, ShieldAltIcon, UsersIcon,
+    BuildingIcon, SchoolIcon, SeedlingIcon, ShieldAltIcon, UsersIcon,
     PuzzlePieceIcon, FeatherAltIcon, BullseyeIcon
 } from '../components/icons';
 

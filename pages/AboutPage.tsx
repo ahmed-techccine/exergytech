@@ -1,11 +1,9 @@
 import React from 'react';
-// import Header from '../components/Header'; // Handled by Layout
-// import Footer from '../components/Footer'; // Handled by Layout
 import SectionTitle from '../components/SectionTitle';
 import Button from '../components/Button';
 import { 
-    CheckIcon, LightbulbIcon, RecycleIcon, SeedlingIcon, ShieldAltIcon, UsersIcon, PuzzlePieceIcon, 
-    FeatherAltIcon, BullseyeIcon, HandshakeSimpleIcon, SparklesIcon, BalanceScaleIcon, PeopleCarryBoxIcon, GlobeIcon
+    CheckIcon,  SeedlingIcon, ShieldAltIcon, UsersIcon, PuzzlePieceIcon, 
+    FeatherAltIcon, BullseyeIcon, SparklesIcon, BalanceScaleIcon, PeopleCarryBoxIcon, GlobeIcon
 } from '../components/icons';
 
 interface ValueCardProps {

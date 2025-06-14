@@ -2,7 +2,7 @@
 import React from 'react';
 import SectionTitle from '../components/SectionTitle';
 import ContactForm from '../components/ContactForm';
-import { PhoneIcon, EmailIcon, GlobeIcon, ArrowRightIcon } from '../components/icons'; // Reusing icons
+import { PhoneIcon, EmailIcon, GlobeIcon } from '../components/icons'; // Reusing icons
 import { FOOTER_CONTACT_INFO } from '../constants'; // Reusing contact info for consistency
 
 interface ContactDetailProps {

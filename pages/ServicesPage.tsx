@@ -1,6 +1,4 @@
 import React from 'react';
-// import Header from '../components/Header'; // Handled by Layout
-// import Footer from '../components/Footer'; // Handled by Layout
 import SectionTitle from '../components/SectionTitle';
 import ServiceDetailCard from '../components/ServiceDetailCard';
 import { 
